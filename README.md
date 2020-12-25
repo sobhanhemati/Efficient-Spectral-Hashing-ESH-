@@ -20,3 +20,4 @@ dataset_name = 'cifar10_vggfc7'  #options: cifar10_vggfc7, labelme_vggfc7, nuswi
 K = 16 # number of bits   
 
 3- Run either demo_ESH.py for ESH1 or demo_ESH_manifold.py for ESH2.
+
