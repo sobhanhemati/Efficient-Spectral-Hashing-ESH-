@@ -6,10 +6,10 @@ Tensorflow 2.1.0 or later
 
 # How to use?
 1- Download the dataset:
-[labelme_vggfc7](https://www.dropbox.com/s/0nc80qepzj8615f/labelme_vggfc7.rar?dl=0)
-[cifar10_vggfc7](https://www.dropbox.com/s/bnybq48ljtsyuit/cifar10_vggfc7.rar?dl=0)
-[nuswide_vgg](https://www.dropbox.com/s/6hl9t6oy78w028d/nuswide_vgg.rar?dl=0)
-[colorectal_EfficientNet](https://www.dropbox.com/s/wdsalhu73bnrtsg/colorectal_EfficientNet.rar?dl=0)
+[labelme_vggfc7](https://www.dropbox.com/s/0nc80qepzj8615f/labelme_vggfc7.rar?dl=0) <br />
+[cifar10_vggfc7](https://www.dropbox.com/s/bnybq48ljtsyuit/cifar10_vggfc7.rar?dl=0) <br />
+[nuswide_vgg](https://www.dropbox.com/s/6hl9t6oy78w028d/nuswide_vgg.rar?dl=0) <br />
+[colorectal_EfficientNet](https://www.dropbox.com/s/wdsalhu73bnrtsg/colorectal_EfficientNet.rar?dl=0) <br />
 
 2- Complete the parameter initialization in either demo_ESH.py or demo_ESH_manifold.py    
 For example:   
