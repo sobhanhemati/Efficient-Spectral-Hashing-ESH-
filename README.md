@@ -5,7 +5,7 @@ Python implementation of "A non-alternating graph hashing algorithm for large sc
 Tensorflow 2.1.0 or later  
 
 # How to use?
-1- Download the dataset:
+1- Download the dataset: <br />
 [labelme_vggfc7](https://www.dropbox.com/s/0nc80qepzj8615f/labelme_vggfc7.rar?dl=0) <br />
 [cifar10_vggfc7](https://www.dropbox.com/s/bnybq48ljtsyuit/cifar10_vggfc7.rar?dl=0) <br />
 [nuswide_vgg](https://www.dropbox.com/s/6hl9t6oy78w028d/nuswide_vgg.rar?dl=0) <br />
