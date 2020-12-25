@@ -1,5 +1,6 @@
-# Efficient-Spectral-Hashing-ESH-
-Python implementation of "A non-alternating graph hashing algorithm for large scale image search" paper.
+#  Python implementation of "A non-alternating graph hashing algorithm for large scale image search" paper 
+
+# Efficient-Spectral-Hashing-ESH
 
 # Dependencies :
 Tensorflow 2.1.0 or later  
